@@ -59,3 +59,20 @@ If you wish to stop receiving notifications from this topic, please click or vis
 https://sns.us-east-1.amazonaws.com/unsubscribe.html?SubscriptionArn=arn:aws:sns:us-east-1:911593386236:GuardDuty-Threat-Alerts:cd1afc88-6c64-4cb7-b3e4-b78d9287af9f&Endpoint=sai513ram@gmail.com
 
 Please do not reply directly to this email. If you have any questions or comments regarding this email, please contact us at https://aws.amazon.com/support
+
+# CloudTrail Configuration
+
+<img width="2878" height="1558" alt="Screenshot 2026-03-03 165345" src="https://github.com/user-attachments/assets/1009fd55-ae92-4391-a1d3-cc3f75d4d502" />
+
+# GuardDuty Configurations
+
+<img width="2876" height="1571" alt="Screenshot 2026-03-03 165310" src="https://github.com/user-attachments/assets/7112116a-2823-4081-9f98-dc55a203b23a" />
+
+# GuardDuty Findings
+
+<img width="2879" height="1559" alt="Screenshot 2026-03-03 165216" src="https://github.com/user-attachments/assets/b8fc0bd6-93e3-4ce6-82a4-f331e0fec83d" />
+
+# Email Alert
+
+
+<img width="2311" height="1188" alt="image" src="https://github.com/user-attachments/assets/7fa0166b-3656-4e71-9ae1-522c2980b29d" />
